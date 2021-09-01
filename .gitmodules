@@ -1,0 +1,28 @@
+[submodule "bmya/odoo-bmya"]
+	path = bmya/odoo-bmya
+	url = git@github.com:bmya/odoo-bmya.git
+	branch = 14.0
+[submodule "bmya/bmya-enterprise"]
+	path = bmya/bmya-enterprise
+	url = git@github.com:bmya/bmya-enterprise.git
+	branch = 14.0
+[submodule "bmya/remu"]
+	path = bmya/remu
+	url = git@github.com:bmya/remu.git
+	branch = 14.0
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 14.0
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 14.0
+[submodule "OCA/credit-control"]
+	path = OCA/credit-control
+	url = git@github.com:OCA/credit-control.git
+	branch = 14.0
