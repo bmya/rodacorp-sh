@@ -26,3 +26,8 @@
 	path = OCA/credit-control
 	url = git@github.com:OCA/credit-control.git
 	branch = 14.0
+
+[submodule "OCA/brand"]
+	path = OCA/brand
+	url = git@github.com:OCA/brand.git
+	branch = 14.0
