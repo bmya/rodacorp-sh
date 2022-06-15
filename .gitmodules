@@ -38,3 +38,11 @@
 	path = account-payment
 	url = git@github.com:bmya/account-payment.git
 	branch = 15.0_dev
+[submodule "bmya/sale"]
+	path = bmya/sale
+	url = git@github.com:bmya/sale.git
+	branch = 15.0_dev
+[submodule "bmya/stock"]
+	path = bmya/stock
+	url = git@github.com:bmya/stock.git
+	branch = 15.0_dev
