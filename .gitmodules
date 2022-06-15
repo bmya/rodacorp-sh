@@ -30,3 +30,7 @@
 	path = bmya/website-connectors
 	url = git@github.com:bmya/website-connectors.git
 	branch = 15.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:bmya/account-financial-tools.git
+	branch = 15.0
