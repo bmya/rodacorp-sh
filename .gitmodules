@@ -26,3 +26,7 @@
 	path = OCA/brand
 	url = git@github.com:OCA/brand.git
 	branch = 15.0
+[submodule "bmya/website-connectors"]
+	path = bmya/website-connectors
+	url = git@github.com:bmya/website-connectors.git
+	branch = 15.0
