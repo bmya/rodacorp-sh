@@ -42,3 +42,7 @@
 	path = bmya/sale-workflow
 	url = git@github.com:bmya/sale-workflow.git
 	branch = 15.0
+[submodule "bmya/account-payment"]
+	path = bmya/account-payment
+	url = git@github.com:bmya/account-payment.git
+	branch = 15.0_dev
