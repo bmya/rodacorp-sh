@@ -34,3 +34,7 @@
 	path = account-financial-tools
 	url = git@github.com:bmya/account-financial-tools.git
 	branch = 15.0
+[submodule "account-payment"]
+	path = account-payment
+	url = git@github.com:bmya/account-payment.git
+	branch = 15.0_dev
