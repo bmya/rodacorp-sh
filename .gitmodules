@@ -46,3 +46,7 @@
 	path = bmya/stock
 	url = git@github.com:bmya/stock.git
 	branch = 15.0_dev
+[submodule "bmya/sale-workflow"]
+	path = bmya/sale-workflow
+	url = git@github.com:bmya/sale-workflow.git
+	branch = 15.0
