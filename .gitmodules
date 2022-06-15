@@ -30,10 +30,6 @@
 	path = bmya/website-connectors
 	url = git@github.com:bmya/website-connectors.git
 	branch = 15.0
-[submodule "account-payment"]
-	path = bmya/account-payment
-	url = git@github.com:bmya/account-payment.git
-	branch = 15.0_dev
 [submodule "bmya/sale"]
 	path = bmya/sale
 	url = git@github.com:bmya/sale.git
